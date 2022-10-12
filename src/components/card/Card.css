@@ -1,0 +1,13 @@
+.card {
+    background-color: brown;
+    margin: 0.5rem;
+    border-radius: 10px;
+    width: 9rem;
+    height: 9rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
